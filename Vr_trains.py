@@ -82,24 +82,24 @@ def main(mista_,mihin_):                                                        
 		case "hameenlinna":
 			mihin_ = "Hameenlinna"
 			mihin = "HL"
-    case "oulu":
-      mihin_ = "Oulu"
-      mihin = "OL"
-    case "rovaniemi":
-      mihin_ = "Rovaniemi"
-      mihin = "ROI"
-    case "pasila":
-      mihin_ = "Pasila"
-      mihin = "PSL"
-    case "tikkurila":
-      mihin_ = "Tikkurila"
-      mihin = "TKL"
-    case "jyvaskyla":
-      mihin_ = "Jyvaskyla"
-      mihin = "JY"
-    case "riihimaki":
-      mihin_ = "Riihimaki"
-      mihin = "RI"
+    	case "oulu":
+      		mihin_ = "Oulu"
+      		mihin = "OL"
+    	case "rovaniemi":
+      		mihin_ = "Rovaniemi"
+      		mihin = "ROI"
+    	case "pasila":
+      		mihin_ = "Pasila"
+      		mihin = "PSL"
+    	case "tikkurila":
+      		mihin_ = "Tikkurila"
+      		mihin = "TKL"
+    	case "jyvaskyla":
+      		mihin_ = "Jyvaskyla"
+      		mihin = "JY"
+    	case "riihimaki":
+      		mihin_ = "Riihimaki"
+      		mihin = "RI"
 		case "turku":
 			mihin_ = "Turku"
 			mihin = "TKU"
