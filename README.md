@@ -1,4 +1,4 @@
-Python script which get VR timetable information from digitraffic net service
+Python script which get VR-track timetable information from ongoing trains from digitraffic net service
 Shows timetable information for next 3 trains which stops at entered station
 
 Example:python3 vr-trains.py tampere helsinki
